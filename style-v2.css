@@ -26,8 +26,8 @@ em.hot{font-family:'Cormorant Garamond',serif;font-style:italic;font-weight:600;
 
 /* ── Hero ── */
 .hero{min-height:100vh;position:relative;display:flex;align-items:flex-end;padding:120px 6.5vw 8vh}
-.heroArt{position:absolute;inset:0;background:url('./images/misfits-rock-hero.jpg') 62% center/cover no-repeat;filter:saturate(.92) contrast(1.08)}
-.heroVeil{position:absolute;inset:0;background:linear-gradient(90deg,#05060af5 0%,#06070bcc 34%,#07080b40 66%,#05060a7a 100%),linear-gradient(0deg,#07080b 2%,transparent 42%)}
+.heroArt{position:absolute;inset:0;background:url('./images/misfits-rock-hero.jpg') 56% top/cover no-repeat;filter:saturate(.94) contrast(1.06)}
+.heroVeil{position:absolute;inset:0;background:linear-gradient(90deg,#05060af0 0%,#06070bbf 30%,#07080b33 62%,#05060a5c 100%),linear-gradient(0deg,#07080bf2 4%,#07080b70 22%,transparent 46%)}
 .heroCopy{position:relative;z-index:2;max-width:840px}
 .hero h1{font:900 clamp(66px,11vw,168px)/.8 'Barlow Condensed',sans-serif;letter-spacing:-.04em;margin:22px 0 26px;text-shadow:0 6px 60px #000}
 .heroLine{font:500 clamp(18px,1.7vw,26px)/1.5 'Cormorant Garamond',serif;letter-spacing:.02em;color:#e6ddd3;max-width:640px}
